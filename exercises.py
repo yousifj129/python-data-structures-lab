@@ -92,4 +92,4 @@ def filter_foods_with_a():
     return foods_with_an_a
 
 # Call the function and print the result
-print('Exercise 7:', filter_foods_with_a())
+print('Zaid was here and Exercise 7 is:', filter_foods_with_a())
